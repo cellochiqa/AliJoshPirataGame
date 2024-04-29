@@ -81,7 +81,7 @@ position = Vector2(47, 431)
 
 [node name="Camera2D" parent="." node_paths=PackedStringArray("character") instance=ExtResource("4_wafvp")]
 position = Vector2(324, 395)
-limit_right = 1800
+limit_right = 2250
 character = NodePath("../MainCharacter")
 
 [node name="TileMap" type="TileMap" parent="."]
